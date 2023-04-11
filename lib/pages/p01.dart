@@ -10,6 +10,8 @@ class P01 extends StatefulWidget {
 class _P01State extends State<P01> {
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return Center(
+      child: Text('p01'),
+    );
   }
 }
