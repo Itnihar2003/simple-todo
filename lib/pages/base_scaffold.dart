@@ -33,11 +33,11 @@ class _BaseScaffoldState extends State<BaseScaffold> {
         tabs: const [
           GButton(
             icon: Icons.task_alt,
-            text: 'Home',
+            text: 'Tasks',
           ),
           GButton(
-            icon: Icons.home,
-            text: 'Profile',
+            icon: Icons.data_array_rounded,
+            text: 'Statistics',
           ),
           GButton(
             icon: Icons.settings,

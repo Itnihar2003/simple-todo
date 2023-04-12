@@ -8,6 +8,7 @@ class P01 extends StatefulWidget {
 }
 
 class _P01State extends State<P01> {
+  int myint = 9;
   @override
   Widget build(BuildContext context) {
     return Center(
